@@ -9,8 +9,8 @@
 <h2>Projetos</h2>
 <div align="center">
 
-| **Semestre** |  **Cliente**  | **Projeto** |**Repositório** | 
-|-----------------------|-------------------------|-------------------------|-------------------------|
-| 1º SEM | Marcelo Sudo | Curso Scrum | <a href="https://github.com/hallwaytechgrupo/ABP-2024-2">ABP 1º SEM<a/> |
+| Semestre | Cliente     | Projeto      | Repositório                                |
+|---------|-------------|-------------|-----------------------------------------|
+| 1º Sem  | Marcelo Sudo | Curso Scrum | [ABP 1º SEM](https://github.com/hallwaytechgrupo/ABP-2024-2) |
 
 </div>
