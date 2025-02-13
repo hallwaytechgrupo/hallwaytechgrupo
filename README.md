@@ -12,5 +12,6 @@
 | Semestre | Cliente     | Projeto      | Repositório                                |
 |---------|-------------|-------------|-----------------------------------------|
 | 1º Sem  | Marcelo Sudo | Curso Scrum | [ABP 1º SEM](https://github.com/hallwaytechgrupo/ABP-2024-2) |
+| 2º Sem  | INPE | Dashboard Queimadas | [ABP 2º SEM](https://github.com/hallwaytechgrupo/ABP-2025-1) |
 
 </div>
