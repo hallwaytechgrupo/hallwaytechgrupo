@@ -12,6 +12,9 @@
 | Semestre | Cliente     | Projeto      | Repositório                                |
 |---------|-------------|-------------|-----------------------------------------|
 | 1º Sem  | Marcelo Sudo | Curso Scrum | [ABP 1º SEM](https://github.com/hallwaytechgrupo/ABP-2024-2) |
-| 2º Sem  | INPE (prof. André Olimpio) | Dashboard Queimadas | [ABP 2º SEM](https://github.com/hallwaytechgrupo/Boitata) |
+| 2º Sem  | INPE (prof. André Olimpio) | Boitatá - HeatSentinel | [ABP 2º SEM](https://github.com/hallwaytechgrupo/Boitata) |
+| 3º Sem  | INPE (prof. Ronaldo Emerick Moreira) | SKYHALK | [ABP 2º SEM](https://github.com/hallwaytechgrupo/SkyHawk) |
+| 4º Sem  | INPE (prof. Leandro Toss Roffmann) | NexDose | [ABP 2º SEM](https://github.com/hallwaytechgrupo/NexDose) |
+| 5º Sem  | INPE (prof. Leandro Toss Roffmann) | LogiPredict AI | [ABP 2º SEM](https://github.com/hallwaytechgrupo/LogiPredictAI) |
 
 </div>
